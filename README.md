@@ -22,4 +22,4 @@
 > Published in **IJMTE Journal, Volume 8, Issue X, Ocotber-2018** International Journal of Advanced in Management, Technology and Engineering Sciences <br>
 > On 28th October, 2018<br> 
 > View Paper - [here](http://www.ijamtes.org/gallery/268.%20oct%20ijmte%20-%20cw.pdf)   <br> <br>
-><img src="https://user-images.githubusercontent.com/45332512/132317997-801265db-bc5a-4f22-b791-b5495b381d1b.png" width="400"/> <img src="https://user-images.githubusercontent.com/45332512/132318052-d30dfb0a-81ea-42d3-be76-32fe08409fcb.png" width="400"/>
+><img src="https://user-images.githubusercontent.com/45332512/132317997-801265db-bc5a-4f22-b791-b5495b381d1b.png" width="380"/> <img src="https://user-images.githubusercontent.com/45332512/132318052-d30dfb0a-81ea-42d3-be76-32fe08409fcb.png" width="380"/>
