@@ -19,6 +19,8 @@
 
 # 3. [Wood Ash as Insulator and its Applications](http://www.ijamtes.org/VOL-8-ISSUE-10-2018-3/)
 > Published in **International** Conference on Latest Innovations in Engineering,Management, Social Science and Education <br>
+> View Paper - [here](http://proceeding.conferenceworld.in/Goa-Conference/k0v9zztzG2047.pdf)
+> 
 > Published in **IJMTE Journal, Volume 8, Issue X, Ocotber-2018** International Journal of Advanced in Management, Technology and Engineering Sciences <br>
 > On 28th October, 2018<br> 
 > View Paper - [here](http://www.ijamtes.org/gallery/268.%20oct%20ijmte%20-%20cw.pdf)   <br> <br>
