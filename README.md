@@ -2,10 +2,10 @@
 #### Research paper published by me
 
 
-# 1. [Smart Queue Shopping Using RFID System](https://www.springer.com/gp/book/9789813348585)      
+# 1. [Smart Queue Shopping Using RFID System](https://link.springer.com/chapter/10.1007/978-981-33-4859-2_1)      
 > Published in **Springer Conference** (2nd International Conference on Machine Learning and Information Processing (ICMLIP 2020)) <br>
 > In 2021 <br>
-> Buy Paper - [here](https://www.springer.com/gp/book/9789813348585#aboutBook)  <br>
+> Buy Paper - [here](https://link.springer.com/chapter/10.1007/978-981-33-4859-2_1)  <br>
 > Get project files - [here](https://github.com/abhijitgawai/Smart-Queue-Shoping) <br>
 <br>
 
