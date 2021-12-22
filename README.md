@@ -5,7 +5,7 @@
 > Published in **Australian Government (AusPat)** (2nd International Conference on Machine Learning and Information Processing (ICMLIP 2020)) <br>
 > In 2021 <br>
 > View Patent - [here](http://pericles.ipaustralia.gov.au/ols/auspat/applicationDetails.do?applicationNo=2021106125#)  <br>
-> Get project files - [here]() <br>
+> Get project files - [here](https://github.com/abhijitgawai/Determining_Glycemic_Load_With_Image_Classification) <br>
 <br>
 <br>
 
