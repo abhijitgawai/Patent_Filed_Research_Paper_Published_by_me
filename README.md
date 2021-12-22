@@ -1,6 +1,15 @@
-# Research-Paper-Published
-#### Research paper published by me
+# Patent Filed
 
+
+# 1. [A GLYCEMIC LOAD CALCULATOR WITH IMAGE DETECTION](http://pericles.ipaustralia.gov.au/ols/auspat/applicationDetails.do?applicationNo=2021106125#)      
+> Published in **Australian Government (AusPat)** (2nd International Conference on Machine Learning and Information Processing (ICMLIP 2020)) <br>
+> In 2021 <br>
+> View Patent - [here](http://pericles.ipaustralia.gov.au/ols/auspat/applicationDetails.do?applicationNo=2021106125#)  <br>
+> Get project files - [here]() <br>
+<br>
+<br>
+
+# Research-Paper-Published
 
 # 1. [Smart Queue Shopping Using RFID System](https://link.springer.com/chapter/10.1007/978-981-33-4859-2_1)      
 > Published in **Springer Conference** (2nd International Conference on Machine Learning and Information Processing (ICMLIP 2020)) <br>
